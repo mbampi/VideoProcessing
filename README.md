@@ -137,3 +137,21 @@ Max=(Cols,Rows) / 26
    </td>
   </tr>
 </table>
+
+
+## Example results
+
+- Blur
+![Blur](img/blur_high.png)
+
+- Canny 
+![Canny](img/canny.png)
+
+- Contrast
+![Contrast](img/contrast_high.png)
+
+- Grayscale
+![Grayscale](img/gray.png)
+
+- Sobel
+![Sobel](img/sobel.png)
